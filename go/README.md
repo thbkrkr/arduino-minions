@@ -9,7 +9,7 @@ Install [gort](http://gort.io/documentation/getting_started/downloads/).
 Upload the firmdata to the Arduino with Gort.
 
 	gort arduino install
-	
+
 	gort scan serial
 
 	gort arduino upload firmata /dev/ttyACM0
